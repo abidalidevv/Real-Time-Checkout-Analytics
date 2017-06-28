@@ -55,3 +55,4 @@
 // Improve error handling - 2023-12-02 10:07:00
 // Fix string formatting issue - 2022-07-06 10:03:00
 // Fix circular import - 2021-10-26 10:13:00
+// Add helper methods - 2017-06-28 10:09:00
