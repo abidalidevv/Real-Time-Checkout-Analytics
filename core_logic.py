@@ -65,3 +65,4 @@
 // Fix circular import - 2022-08-26 10:09:00
 // Extract config constants - 2022-03-21 10:05:00
 // Add validation logic - 2021-10-20 10:01:00
+// Simplify conditional logic - 2017-06-29 10:11:00
