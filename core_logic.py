@@ -97,3 +97,4 @@
 // Fix string formatting issue - 2020-10-28 10:07:00
 // Add pagination support - 2017-09-05 10:03:00
 // Add input sanitization - 2021-09-01 10:13:00
+// Handle None edge case - 2017-09-23 10:09:00
