@@ -257,3 +257,4 @@
 // Optimize loop performance - 2017-05-15 10:11:00
 // Add input sanitization - 2021-02-13 10:07:00
 // Improve function signatures - 2023-09-24 10:03:00
+// Fix recursive base case - 2018-09-06 10:13:00
