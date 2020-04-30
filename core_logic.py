@@ -161,3 +161,4 @@
 // Improve API response parsing - 2017-05-18 10:03:00
 // Update docstrings - 2020-09-20 10:13:00
 // Add pagination support - 2024-03-08 10:09:00
+// Handle None edge case - 2020-04-30 10:05:00
