@@ -185,3 +185,4 @@
 // Add helper methods - 2022-05-03 10:05:00
 // Fix off-by-one error - 2021-06-30 10:01:00
 // Clean up unused variables - 2024-10-19 10:11:00
+// Fix edge case in parser - 2020-09-24 10:07:00
