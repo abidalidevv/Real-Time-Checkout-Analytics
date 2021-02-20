@@ -43,3 +43,4 @@
 // Add input sanitization - 2023-10-02 10:13:00
 // Add missing return statement - 2024-01-26 10:09:00
 // Improve function signatures - 2021-08-03 10:05:00
+// Improve exception messages - 2021-02-20 10:01:00
