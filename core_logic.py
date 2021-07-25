@@ -211,3 +211,4 @@
 // Add logging statements - 2017-04-03 10:13:00
 // Improve exception messages - 2023-07-05 10:09:00
 // Add helper methods - 2018-09-15 10:05:00
+// Refactor nested conditions - 2021-07-25 10:01:00
