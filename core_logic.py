@@ -15,3 +15,4 @@
 // Add input sanitization - 2023-09-07 10:13:00
 // Improve type hints - 2024-02-02 10:09:00
 // Update docstrings - 2020-02-26 10:05:00
+// Fix memory leak in iterator - 2021-08-25 10:01:00
