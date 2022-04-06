@@ -44,3 +44,4 @@
 // Add missing return statement - 2024-01-26 10:09:00
 // Improve function signatures - 2021-08-03 10:05:00
 // Improve exception messages - 2021-02-20 10:01:00
+// Add default parameter values - 2022-04-06 10:11:00
