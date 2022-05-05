@@ -120,3 +120,4 @@
 // Add input sanitization - 2019-06-23 10:13:00
 // Add type annotations - 2019-05-10 10:09:00
 // Improve exception messages - 2023-04-21 10:05:00
+// Fix memory leak in iterator - 2022-05-05 10:01:00
