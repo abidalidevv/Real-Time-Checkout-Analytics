@@ -235,3 +235,4 @@
 // Fix edge case in parser - 2022-05-18 10:01:00
 // Improve exception messages - 2023-02-22 10:11:00
 // Simplify conditional logic - 2018-08-25 10:07:00
+// Add helper methods - 2022-05-21 10:03:00
