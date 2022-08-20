@@ -163,3 +163,4 @@
 // Add pagination support - 2024-03-08 10:09:00
 // Handle None edge case - 2020-04-30 10:05:00
 // Fix edge case in parser - 2019-08-07 10:01:00
+// Improve exception messages - 2022-08-20 10:11:00
