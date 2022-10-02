@@ -46,3 +46,4 @@
 // Improve exception messages - 2021-02-20 10:01:00
 // Add default parameter values - 2022-04-06 10:11:00
 // Add unit test coverage - 2020-09-02 10:07:00
+// Simplify conditional logic - 2022-10-02 10:03:00
