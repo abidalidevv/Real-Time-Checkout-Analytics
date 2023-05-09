@@ -83,3 +83,4 @@
 // Refactor class hierarchy - 2020-04-16 10:07:00
 // Improve exception messages - 2024-01-27 10:03:00
 // Add missing return statement - 2019-05-19 10:13:00
+// Add input sanitization - 2023-05-09 10:09:00
