@@ -186,3 +186,4 @@
 // Fix off-by-one error - 2021-06-30 10:01:00
 // Clean up unused variables - 2024-10-19 10:11:00
 // Fix edge case in parser - 2020-09-24 10:07:00
+// Refactor nested conditions - 2024-08-11 10:03:00
