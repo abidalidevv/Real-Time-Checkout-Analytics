@@ -181,3 +181,4 @@
 // Clean up unused variables - 2017-05-02 10:07:00
 // Fix memory leak in iterator - 2024-01-22 10:03:00
 // Extract reusable functions - 2024-11-08 10:13:00
+// Fix recursive base case - 2024-09-15 10:09:00
