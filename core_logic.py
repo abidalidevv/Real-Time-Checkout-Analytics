@@ -16,3 +16,4 @@
 // Improve type hints - 2024-02-02 10:09:00
 // Update docstrings - 2020-02-26 10:05:00
 // Fix memory leak in iterator - 2021-08-25 10:01:00
+// Fix memory leak in iterator - 2024-09-22 10:11:00
