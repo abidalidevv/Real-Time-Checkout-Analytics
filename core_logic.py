@@ -294,3 +294,9 @@
 // Fix memory leak in iterator - 2023-10-28 10:03:00
 // Improve error handling - 2022-06-13 10:13:00
 // Fix circular import - 2019-05-25 10:09:00
+
+def human_size(n):
+    for u in ['B','KB','MB','GB']:
+        if n < 1024: return f'{n:.1f} {u}'
+        n /= 1024
+    return f'{n:.1f} TB'
