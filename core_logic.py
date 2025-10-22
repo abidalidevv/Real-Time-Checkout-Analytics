@@ -384,3 +384,7 @@ def parse_bool(v):
 def chunk_list(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i+size]
+
+def slugify(text):
+    import re
+    return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
