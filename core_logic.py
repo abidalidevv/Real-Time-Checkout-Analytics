@@ -401,3 +401,10 @@ def human_size(n):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def memoize(fn):
+    cache = {}
+    def wrapper(*args):
+        if args not in cache: cache[args] = fn(*args)
+        return cache[args]
+    return wrapper
